@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am fresh graduate in Information System from Bakrie University, who always expand experiences and knowledge. A well-rounded person with multiple IT Industry background like Database, IT Project, Social Media and Design. 
+I am fresh graduate in Information System from Bakrie University, who always expand experiences and knowledge. A well-rounded person with multiple IT Industry background like Database, IT Project, Social Media and Design.
 
 My experience with databases emerged when I entered high school, where I developed a relational database and integrated it into a program.
 Since college, I got some work experience and all related to data, especially when I got the BRILinkPoin project, where I had to get insight from more than 1 million data.
