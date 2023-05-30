@@ -3,7 +3,7 @@
 ### About Me
 
 My experience with data when I entered high school, where I developed a relational database and integrated it into a program.
-Since college, I got some work experience and all related to data, especially when I got the BRILinkPoin project, where I had to get insight from more than 1 million data.
+Since college, I got some work experience and all related to data, especially when I got the project, where I had to get insight from more than 1 million data.
 
 I decided to take some certifications one of which is **[Google Data Analytics](https://coursera.org/share/58eed59e497d5976825f09ac9c26bcf1)**.
 
