@@ -11,7 +11,7 @@ Here is some of my portofolio for Data analysis by doing some projects with publ
 
 ### Skills and Abilities.
 * Microsoft Excel / Google Spreadsheet
-* Programming Languages : SQL, Google BigQuery, and R
+* Programming Languages : SQL, Google BigQuery, R and Python
 * Data Visualization : Tableau and Power BI
 * Statistics : Descriptive Statistics, Exploratory Data Analysis and Visualization, and Cohort Analysis
 
