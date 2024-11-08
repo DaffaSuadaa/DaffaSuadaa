@@ -9,6 +9,7 @@ I decided to take some certifications one of which is **[Google Data Analytics](
 
 Here is some of my portofolio for Data analysis by doing some projects with public dataset.
 
+* **[Bike-Sharing_Dicoding-Data-Analisis](https://github.com/DaffaSuadaa/Bike-Sharing_Dicoding-Data-Analisis)**
 * **[Sales-Dashboard](https://github.com/DaffaSuadaa/Sales-Dashboard)**
 * **[Customer_Segmentation-RFM-Company_UK_Based-Lifetimes](https://github.com/DaffaSuadaa/Customer_Segmentation-RFM-Company_UK_Based-Lifetimes)**
 * **[Cohort-analyst_Company-UK-based](https://github.com/DaffaSuadaa/Cohort-analyst_Company-UK-based)**
