@@ -14,7 +14,7 @@ Here is some of my portofolio for Data analysis by doing some projects with publ
 * **[Customer_Segmentation-RFM-Company_UK_Based-Lifetimes](https://github.com/DaffaSuadaa/Customer_Segmentation-RFM-Company_UK_Based-Lifetimes)**
 * **[Cohort-analyst_Company-UK-based](https://github.com/DaffaSuadaa/Cohort-analyst_Company-UK-based)**
 * **[San_Francisco_Crime-Dashboard](https://github.com/DaffaSuadaa/San_Francisco_Crime-Dashboard)**
-* **[Google-Data-Analytics-Capstone_Case-Study-1](https://github.com/DaffaSuadaa/Google-Data-Analytics-Capstone_Case-Study-1)**
+* **[Case-Study_Google-Data-Analytics](https://github.com/DaffaSuadaa/Case-Study_Google-Data-Analytics)**
 
 
 ### Skills and Abilities.
