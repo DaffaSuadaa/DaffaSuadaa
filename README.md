@@ -2,10 +2,18 @@
 
 ### About Me
 
-My experience with data when I entered high school, where I developed a relational database and integrated it into a program.
-Since college, I have had some work experience all related to data. Then I started to be interested in data analysis.
+I am a Mobile Software Engineer with over a year of experience, passionate about data analysis and data science. My background in software development has given me a strong foundation in problem-solving, while my enthusiasm for data-driven insights drives me to continuously expand my skills in data analytics and machine learning.
 
-I decided to take some certifications one of which is **[Google Data Analytics](https://coursera.org/share/58eed59e497d5976825f09ac9c26bcf1)**.
+To strengthen my expertise, I have completed several certifications, including:
+
+**1. [Google Data Analytics](https://coursera.org/share/58eed59e497d5976825f09ac9c26bcf1)**.
+
+**2. [Data Analysis with Python](https://www.dicoding.com/certificates/53XEQKR2VXRN)**.
+
+**3. [Machine Learning for Beginners](https://www.dicoding.com/certificates/NVP756984XR0)**.
+
+**4. [Machine Learning Development - Intermediate level](https://www.dicoding.com/certificates/JLX19JLW6P72)**.
+
 
 Here is some of my portofolio for Data analysis by doing some projects with public dataset.
 
